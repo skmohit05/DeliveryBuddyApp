@@ -17,57 +17,57 @@
                 <div class="pick-up-pallete">
                   <table class="table" style="background-color:yellow;">
                     <tr>
-                      <th>#</th>
-                      <td>1</td>
+                      <th>Item 1</th>
+                      <td>Sambhar</td>
                     </tr>
                     <tr>
-                      <th>Item</th>
-                      <td>Sambhar</td>
+                      <th>Delivery Time</th>
+                      <td>10:45pm</td>
                     </tr>
                     <tr>
                       <th>Name</th>
                       <td>Mohit Kumar Meena</td>
                     </tr>
                     <tr>
-                      <th>Pickup Address</th>
+                      <th>Delivery Address</th>
                       <td>room no. 212 mandakini hostel iit madras chennai</td>
                     </tr>
                   </table>
 
                   <table class="table" style="background-color:yellow;">
                     <tr>
-                      <th>#</th>
-                      <td>1</td>
+                      <th>Item 1</th>
+                      <td>Sambhar</td>
                     </tr>
                     <tr>
-                      <th>Item</th>
-                      <td>Sambhar</td>
+                      <th>Delivery Time</th>
+                      <td>10:45pm</td>
                     </tr>
                     <tr>
                       <th>Name</th>
                       <td>Mohit Kumar Meena</td>
                     </tr>
                     <tr>
-                      <th>Pickup Address</th>
+                      <th>Delivery Address</th>
                       <td>room no. 212 mandakini hostel iit madras chennai</td>
                     </tr>
                   </table>
 
                   <table class="table" style="background-color:yellow;">
                     <tr>
-                      <th>#</th>
-                      <td>1</td>
+                      <th>Item 1</th>
+                      <td>Sambhar</td>
                     </tr>
                     <tr>
-                      <th>Item</th>
-                      <td>Sambhar</td>
+                      <th>Delivery Time</th>
+                      <td>10:45pm</td>
                     </tr>
                     <tr>
                       <th>Name</th>
                       <td>Mohit Kumar Meena</td>
                     </tr>
                     <tr>
-                      <th>Pickup Address</th>
+                      <th>Delivery Address</th>
                       <td>room no. 212 mandakini hostel iit madras chennai</td>
                     </tr>
                   </table>
