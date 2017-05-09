@@ -7,8 +7,15 @@
             <div class="panel panel-default">
                 <div class="panel-heading">Dashboard</div>
 
-                <div class="panel-body">
-                    You are logged in!
+                <div class="navigation">
+                  <nav class="navbar navbar-default">
+                    <div class="container-fluid">
+                      <ul class="nav navbar-nav">
+                        <li class="active"><a href="#">Pickup Location</a></li>
+                        <li><a href="#">Delivery Location</a></li>
+                      </ul>
+                    </div>
+                  </nav>
                 </div>
             </div>
         </div>
